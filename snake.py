@@ -11,7 +11,7 @@ Exercises
 from random import randrange
 
 from turtle import setup, hideturtle, tracer, listen, onkey, ontimer
-from turtle import update, done
+from turtle import update, done, clear
 
 from freegames import square, vector
 
